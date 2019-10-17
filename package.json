@@ -1,6 +1,6 @@
 {
   "name": "learnstorybook-design-system_stuglass",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "private": false,
   "dependencies": {
     "polished": "^3.4.1",
